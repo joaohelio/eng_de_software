@@ -20,6 +20,6 @@ João Hélio [email jhelio.jkd@gmail.com](mailto:jhelio.jkd@gmail.com)
 * **BPMN do Processo**
 * **Backlog do Produto**
 * **Backlog da Sprint**
-* **Gráfico de Burndown**
+* **Gráfico Burndown da Sprint**
 * **Gráfico UML do Sistema**
 * **Plano de Teste**
