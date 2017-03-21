@@ -15,3 +15,11 @@ João Hélio [email jhelio.jkd@gmail.com](mailto:jhelio.jkd@gmail.com)
 * **Exercícios** 25%
 
 ## Projeto
+
+* **PM Canvas**
+* **BPMN do Processo**
+* **Backlog do Produto**
+* **Backlog da Sprint**
+* **Gráfico de Burndown**
+* **Gráfico UML do Sistema**
+* **Plano de Teste**
