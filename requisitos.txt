@@ -2,4 +2,4 @@ Projetor
 Caixa de som pra ligar no notebook
 
 Laboratório com os seguintes softwares:
-  Planner e Dia
+  Git, Planner e Dia
