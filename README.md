@@ -19,7 +19,5 @@ João Hélio [email jhelio.jkd@gmail.com](mailto:jhelio.jkd@gmail.com)
 * **PM Canvas**
 * **BPMN do Processo**
 * **Backlog do Produto**
-* **Backlog da Sprint**
-* **Gráfico Burndown da Sprint**
 * **Gráfico UML do Sistema**
 * **Plano de Teste**
