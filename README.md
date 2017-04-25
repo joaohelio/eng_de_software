@@ -15,10 +15,9 @@ João Hélio [email jhelio.jkd@gmail.com](mailto:jhelio.jkd@gmail.com)
 * **Exercícios** 25%
 
 ## Projeto
-Em grupo de até 5 pessoas contrua um software que mostre dois gráficos de Pareto (Custos por estado e custos por pessoas respectivamente) do **Caso de Estudo** apresentado em sala de aula.
+Em grupo de até 5 pessoas construa um software que mostre dois gráficos de Pareto (custos por cidade e custos por pessoas respectivamente) do **Caso de Estudo** apresentado em sala de aula.
 
 Artefatos:
 * **PM Canvas**
 * **Backlog do Produto**
-* **Gráfico UML do Sistema**
 * **Apresentação em seminário das etapas do processo, código e lições aprendidas**
