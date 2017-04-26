@@ -1,0 +1,13 @@
+PM Canvas
+
+Product Backlog Básico
+
+Histórias de Usuários
+
+Gráfico de Pareto
+
+Modelo V de desenvolvimento
+
+Quadro de Tarefas
+
+Git
